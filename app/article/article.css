@@ -1,0 +1,50 @@
+body{
+    background-color:#ffffff ;
+}
+ul{
+    background: linear-gradient(to right, #715d54 , #3e0908);
+    margin: 0px;
+}
+.img{
+
+    background-image: url("https://cdn.insuranceinbox.com/staticpages/guideHealth.jpg");
+    width: 100%;
+    height: 450px;
+    background-position: right;
+    position: absolute;
+    z-index: -1;
+}
+.container1{
+    width: 850px;
+    color:#ffffff;
+    margin-left: 100px;
+    position: static;
+}
+.container1 p{
+    padding-top: 30px;
+}
+.container1 h1{
+    width: 360px;
+    padding-top: 20px;
+}
+.article-content{
+    background-color: #fff;
+    color: black;
+    padding: 25px;
+    text-align: justify;
+    line-height: 1.8;
+    font-size: 16px;
+    margin-top: 150px;
+    box-shadow: -1px 0px 17px 5px #777;
+}
+.img-bottom{
+    background-image: url('https://cdn.insuranceinbox.com/staticpages/VectorSmartObject.jpg');
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: 100%;
+    /*height: 100%;*/
+    padding: 0% 0% 28% 0%;;
+    position: absolute;
+    z-index: -1;
+    margin-top: -120px;
+}
